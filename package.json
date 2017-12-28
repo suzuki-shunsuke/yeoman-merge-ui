@@ -19,7 +19,11 @@
   },
   "license": "BSD-2-Clause",
   "dependencies": {
+    "chalk": "^2.3.0",
     "error": "^7.0.2",
+    "lodash": "^4.17.4",
+    "log-symbols": "^2.1.0",
+    "text-table": "^0.2.0",
     "tmp": "0.0.33",
     "yeoman-environment": "^2.0.5",
     "yeoman-generator": "^2.0.1"
