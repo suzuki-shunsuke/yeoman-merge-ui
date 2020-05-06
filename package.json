@@ -15,7 +15,9 @@
     "lint": "eslint '**/*.js'",
     "commitmsg": "validate-commit-msg",
     "standard-version": "standard-version",
-    "release": "standard-version"
+    "release": "standard-version",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "license": "BSD-2-Clause",
   "dependencies": {
@@ -26,7 +28,8 @@
     "text-table": "^0.2.0",
     "tmp": "0.2.1",
     "yeoman-environment": "^2.0.5",
-    "yeoman-generator": "^4.0.0"
+    "yeoman-generator": "^4.0.0",
+    "snyk": "^1.319.0"
   },
   "devDependencies": {
     "eslint": "6.8.0",
@@ -37,5 +40,6 @@
     "prettier": "2.0.5",
     "standard-version": "7.1.0",
     "validate-commit-msg": "2.14.0"
-  }
+  },
+  "snyk": true
 }
