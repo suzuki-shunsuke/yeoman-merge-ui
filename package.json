@@ -33,7 +33,7 @@
     "eslint-config-prettier": "6.11.0",
     "eslint-config-xo": "0.29.1",
     "eslint-plugin-prettier": "2.7.0",
-    "husky": "0.14.3",
+    "husky": "4.2.5",
     "prettier": "1.19.1",
     "standard-version": "4.4.0",
     "validate-commit-msg": "2.14.0"
