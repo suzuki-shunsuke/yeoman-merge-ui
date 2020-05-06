@@ -19,7 +19,7 @@
   },
   "license": "BSD-2-Clause",
   "dependencies": {
-    "chalk": "^2.3.0",
+    "chalk": "^4.0.0",
     "error": "^10.0.0",
     "lodash": "^4.17.15",
     "log-symbols": "^4.0.0",
