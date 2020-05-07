@@ -6,3 +6,15 @@ patch:
   SNYK-JS-LODASH-567746:
     - yeoman-generator > grouped-queue > lodash:
         patched: '2020-05-06T07:29:04.286Z'
+    - yeoman-environment > yeoman-generator > lodash:
+        patched: '2020-05-07T04:56:49.331Z'
+    - yeoman-environment > yeoman-generator > grouped-queue > lodash:
+        patched: '2020-05-07T04:56:49.331Z'
+    - yeoman-environment > yeoman-generator > async > lodash:
+        patched: '2020-05-07T04:56:49.331Z'
+    - yeoman-environment > yeoman-generator > yeoman-environment > lodash:
+        patched: '2020-05-07T04:56:49.331Z'
+    - yeoman-environment > yeoman-generator > yeoman-environment > grouped-queue > lodash:
+        patched: '2020-05-07T04:56:49.331Z'
+    - yeoman-environment > yeoman-generator > yeoman-environment > inquirer > lodash:
+        patched: '2020-05-07T04:56:49.331Z'
