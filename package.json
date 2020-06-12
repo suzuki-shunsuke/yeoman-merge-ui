@@ -22,7 +22,7 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "chalk": "^4.0.0",
-    "error": "^10.0.0",
+    "error": "^10.4.0",
     "lodash": "^4.17.15",
     "log-symbols": "^4.0.0",
     "text-table": "^0.2.0",
