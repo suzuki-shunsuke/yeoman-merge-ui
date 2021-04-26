@@ -24,7 +24,7 @@
     "chalk": "^4.1.0",
     "error": "^10.4.0",
     "lodash": "^4.17.16",
-    "log-symbols": "^4.0.0",
+    "log-symbols": "^5.0.0",
     "text-table": "^0.2.0",
     "tmp": "0.2.1",
     "yeoman-environment": "^2.10.3",
